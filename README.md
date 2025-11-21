@@ -3,6 +3,7 @@ This repository is a complete Java DSA guide that covers all core data structure
 Java DSA
 Java Data Structures and Algorithms
 DSA in Java
+Data Structures and Algorithms
 Java Arrays
 Java Binary Trees
 Learn DSA in Java
